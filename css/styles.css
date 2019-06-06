@@ -1,0 +1,17 @@
+.age-gate{
+  height: 100px;
+  width: 100px;
+  margin: auto;
+  margin-top: 30%;
+}
+
+.content{
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  //background-color: pink;
+}
+
+.hidden{
+  display: none;
+}
